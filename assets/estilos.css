@@ -1,0 +1,13 @@
+
+img {
+	width: 120px;
+	
+	float:left;
+}
+
+
+.columnas {
+    column-count: 2; 
+    column-count: 2;
+    column-count: 2;
+}
